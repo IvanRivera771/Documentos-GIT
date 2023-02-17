@@ -1,0 +1,17 @@
+donde se revisa el equilibrio de fuerzas en
+sistrmas en reposo. Cada problema se analiza y resuelve por método: 
+Gráfico, 
+nodos o nudos, 
+sistema de matrices y
+sistema de ecuaciones
+
+Metodos para resolver equilibrio de Fuerzas:
+
+A. Método Gráfico
+B. Método Nodos
+C. Método Secciones
+D. Planteo por Matriz de Rigidez
+E. Por sistemas de ecuaciones
+
+Vectores y Armaduras 2:
+
