@@ -15,16 +15,7 @@ E. Por sistemas de ecuaciones
 
 Vectores y Armaduras 2:
 
-No se puede iniciar en un nodo donde hayan 2 incognitas 
+No se puede iniciar en un nodo donde hayan 2 incognitas
 
- caratula
- intro (la tiene que hacer(
- Aparatos y reactivos( siullador)
- Procedimiento (las tablas )
- Marco teórico (le toca)
- Datos (simulador)
- Calculos y resultados ( tablas y graficas)
- Conclusiones (le toca)
- Biblioografia (link del simuladora)
- Anexos (graficas)
- eso le toca
+Problemas con nodos:
+Si nos equivocamos en un dato, ese calculo lo arrastramos a las demas mediciones  
