@@ -1,0 +1,17 @@
+		José Miguel Marroquín Moreno 		 	202231386   3  Marco teoricoy bibliografia             
+		Ruby Dulce Rocio Agustín Rodas 	 		201230160   7  Resultados y procedimientos 		
+		Wilmer Otoniel Álvarez García 		 	202232148   4  Resumen 1 y aparatos y reactivos
+		Dulce María Santos López 			202232207   5  Datos y resumen 2
+		Juan Carlos Sosof García 			202231229   2  objetivos y conclusiones
+		Brayan Alfredo García Méndez 		 	201632262   6  Discusión de resultados y anexos
+		Marlon Ivan Carreto Rivera 			201230088   1  Intro y unir presentaciones
+
+
+ 
+	Compañero 1  Ivan  		Intro y unir presentaciones		Ya
+	Compañero 2  Juan Carlos 	Objetivos y conclusiones    		Ya
+	Compañero 3  José 		Marco teorico y bibligrafia		Ya
+	Compañero 4  Wilmer 		Resumen 1 y aparatos y reactivos	Ya
+	Compañero 5  Dulce María	Datos y resumen 2			Falta
+	Compañero 6  Brayan		Discusion de resultados y anexos 	Falta
+	Compañero 7  Ruby Dulce		Resultados y procedimiento		Ya
