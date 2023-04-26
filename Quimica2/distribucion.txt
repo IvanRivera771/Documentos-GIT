@@ -9,9 +9,9 @@
 
  
 	Compañero 1  Ivan  		Intro y unir presentaciones		Ya
-	Compañero 2  Juan Carlos 	Objetivos y conclusiones    		Ya
-	Compañero 3  José 		Marco teorico y bibligrafia		Ya
-	Compañero 4  Wilmer 		Resumen 1 y aparatos y reactivos	Ya
-	Compañero 5  Dulce María	Datos y resumen 2			Falta
-	Compañero 6  Brayan		Discusion de resultados y anexos 	Falta
-	Compañero 7  Ruby Dulce		Resultados y procedimiento		Ya
+	Compañero 2  Brayan 		Objetivos y Analisis de resultados   	Ya
+	Compañero 3  Jose 		Marco teorico y bibligrafia		Ya
+	Compañero 4  Juan  		Aparatos, reactivos y conclusiones	Ya
+	Compañero 5  Wilmer 		Resultados y calculos			Falta
+	Compañero 6  Ruby Dulce		Procedimiento 				Ya
+	Compañero 7  Dulce María	Datos y anexos				Ya
